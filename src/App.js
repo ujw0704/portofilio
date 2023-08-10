@@ -8,7 +8,7 @@ import Home from './Comopents/Home';
 import Skill from './Comopents/Skill';
 import Contact from './Comopents/Contact';
 import Work from './Comopents/Work';
-import './App.css';
+// import './App.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 

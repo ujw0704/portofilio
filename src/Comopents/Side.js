@@ -8,7 +8,7 @@ function Side() {
         <ul>
 
         <li>   
-              <Link to ="/"><i class="fa-solid fa-house"></i></Link>
+              <Link to ="/Home"><i class="fa-solid fa-house"></i></Link>
         </li>
 
         <li>

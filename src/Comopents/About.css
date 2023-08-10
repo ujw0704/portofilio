@@ -1,0 +1,45 @@
+*{
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+}
+
+
+.about{
+    padding: 70px;
+  
+    display: flex;     
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: 2px solid black;
+    background-color:#E0E0E0;
+    width: 107%;
+    
+}
+.box{
+    background-color:#E0E0E0;
+    height: 350px;
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    box-shadow: inset -3px -3px 7px #ffffff73, inset 3px 3px 5px rgba(94,104,121, .288);
+}
+
+.about h3 {
+    height: 300px;
+    width: auto ;
+    font-size: clamp(2rem,5vw,.8);
+    color:#fff;
+    text-align: left;
+    padding:20px ;
+   
+
+}
+
+
+
+
