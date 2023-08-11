@@ -12,8 +12,8 @@ function Home() {
       <div className='Detail'>
          <h1>Ananthu Krishnan</h1>
          <p className='web'>Web Developer</p>
-         <button type="">RESUME</button>
-         <button type="">HIRE ME</button>
+         <div className='buttons'><button type="">RESUME</button>
+         <button type="">HIRE ME</button></div>
 
       </div>
       </div>

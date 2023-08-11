@@ -14,7 +14,7 @@
     margin-left: 129px;
     margin-top: 34px;
   }
-h1{
+  h1{
      justify-content: center;
      text-align: center;
      padding-top: 30px;
@@ -46,6 +46,7 @@ h1{
     box-shadow: 3px 3px 3px 3px #948f8f;
     border-radius: 5px;
     padding-bottom: 2.5rem; 
+    margin-left: 134px
 }
 
 .one h3 {
