@@ -45,7 +45,7 @@
 
 }
 .continer.heading{
-     
+     margin-right: 100px;
 
 }
 
@@ -59,6 +59,8 @@
     width:350px ;
  height: 400px;
  padding-top: 30px;
- margin-left:100px ;
- margin-top: 70px;
+ /* margin-left:100px ;*/
+ margin-top: 70px; 
+ margin-right: -90px;
+ 
 }
