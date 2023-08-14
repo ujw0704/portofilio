@@ -1,5 +1,6 @@
 import React from 'react'
  import "./Home.css"
+ import {Link}  from 'react-router-dom'
 function Home() {
   return (
     <div className='main-box'>
@@ -13,7 +14,7 @@ function Home() {
          <h1>Ananthu Krishnan</h1>
          <p className='web'>Web Developer</p>
          <div className='buttons'><button type="">RESUME</button>
-         <button type="">HIRE ME</button></div>
+        <button><Link to="/contact">HIRE ME</Link></button></div>
 
       </div>
       </div>

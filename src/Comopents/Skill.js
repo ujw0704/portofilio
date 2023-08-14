@@ -5,7 +5,7 @@ import './skill.css'
 function Skill() {
   return (
     <> 
-    <div className='conatiner'>
+    <div className='conatiner1'>
 
        <h1>WHAT DO I DO</h1>
     <div className='one'>
