@@ -16,19 +16,19 @@
    width: 90%;
 }
 
-
+.Work-heading h1{
+margin-right: 350px;
+font-size: 35px;
+width: 804px;
+}
+.page h3{
+ padding-left: 350px;
+}
+.page h1{
+   margin-right: 80x;
+}
  
 
- ul{
-    list-style: none ;
-    margin-left: 200px;
-    padding-bottom: 60px;
-    /* width: 100%; */
- }
-
- ul li{
-    width: 100%;
- }
 
 
  

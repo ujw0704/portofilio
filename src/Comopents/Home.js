@@ -12,7 +12,7 @@ function Home() {
       </div>
       <div className='Detail'>
          <h1>Ananthu Krishnan</h1>
-         <p className='web'>Web Developer</p>
+         <p>Web Developer</p>
          <div className='buttons'><button type="">RESUME</button>
         <button><Link to="/contact">HIRE ME</Link></button></div>
 

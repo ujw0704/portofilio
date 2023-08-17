@@ -16,10 +16,23 @@
     
 
  }
- ul li{
+
+ 
+ .link ul{
+   list-style: none ;
+   margin-left: 200px;
+    padding-bottom: 30px; 
+    width: 100%; 
+}
+
+ul li{
+   width: 100%;
+}
+.link ul li{
     list-style: none;
-    margin-right: 100px;
- }
+    margin-left: -80px;
+}
+ 
 
  i{
     color: #fff;

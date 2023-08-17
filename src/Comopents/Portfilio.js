@@ -10,19 +10,19 @@ function Portfilio() {
                <div className='images'>
                     <div className='image'>
                          <div className='first-img'>
-                              <img src='https://ananthukrish.netlify.app/assets/screenshot.66ae1500.png' alt></img>
+                              <img src='https://ananthukrish.netlify.app/assets/screenshot.66ae1500.png' alt="okry"></img>
 
                          </div>
                     </div>
                     <div className='image'>
                          <div className='second-img'>
-                              <img src='https://ananthukrish.netlify.app/assets/screenshot.66ae1500.png' alt></img>
+                              <img src='https://ananthukrish.netlify.app/assets/screenshot.66ae1500.png' alt="okry"></img>
 
                          </div>
                     </div>
                     <div className='image'>
                          <div className='third-img'>
-                              <img src='https://ananthukrish.netlify.app/assets/screenshot.66ae1500.png' alt></img>
+                              <img src='https://ananthukrish.netlify.app/assets/screenshot.66ae1500.png' alt="okry"></img>
 
                          </div>
                     </div>

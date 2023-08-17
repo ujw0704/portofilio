@@ -17,20 +17,20 @@
 .buttons{
     display: flex;
 }
- .main-box.container{
+ .main-box .container{
    
     /* position: relative; */
     display: flex;
-    justify-self:center;
-    align-items: center;
+    justify-content: center;
+    align-items: center; 
     
 }
 .container .pic img{
     height: 400px;
     width: 300px;
-    margin-top: 20%;
+    margin-top: 10%;
     padding: 0px;
-   
+    margin-right: 50px;
     margin-left: 250px;
     justify-content: center;
     align-items: center;
@@ -41,22 +41,20 @@
 .Detail {
     font-size: 30px;
     text-align: center;
-    margin-top: 60px;
-    
+    margin-top: 60px; 
+    padding: 0;
    
 }
 
-.Detail h1,.Detail p {
+.Detail h1, .Detail p {
     border-left: 5px solid;
-
-}
-
-.Detail h1,p {
-    margin-left: 40px;
-    padding: 10px;
+    padding: 10px 0;
     color: rgb(32, 29, 27);
     font-weight:400;
+    width: 100%;
+    width: 306px
 }
+ 
 
 button {
     margin: 15px;

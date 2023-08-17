@@ -6,9 +6,7 @@ import Portfilio from './Comopents/Portfilio';
 import Qulifaction from './Comopents/Qulifaction';
 import Home from './Comopents/Home';
 import Skill from './Comopents/Skill';
-import Contact from './Comopents/Contact';
-import Work from './Comopents/Work';
-// import './App.css';
+import Contact from './Comopents/Contact'; import Work from './Comopents/Work'; import './App.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 
@@ -24,7 +22,7 @@ function App() {
           <Route path="/about" element={<About />}></Route>
           {/* <Route path="/body" element={<Body />}></Route> */}
           <Route path="/skill" element={<Skill />}></Route>
-          <Route path="/work" element={<Work />}></Route>
+           <Route path="/work" element={<Work />}></Route> 
           <Route path="/portifoli" element={<Portfilio />}></Route>
           <Route path="/qulifation" element={<Qulifaction />}></Route>
           <Route path="/contact" element={<Contact />}></Route>

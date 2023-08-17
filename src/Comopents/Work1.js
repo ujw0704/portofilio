@@ -11,9 +11,9 @@ function Work1() {
             </div>
 
             <div className='page'>
-               <h1>PANAPPS INC</h1>
+               <h2>PANAPPS INC</h2>
                <h3>Software Developer</h3>
-               <ul>
+               <ul className='content'>
            
                 <li>- Develop, test and implement new software programs with vue js and dotnet</li>
                 <li>- Clearly and regularly communicate with management and technical support colleagues</li>
