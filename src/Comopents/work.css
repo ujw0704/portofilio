@@ -1,34 +1,33 @@
  *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-       
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
  }
+ .Work-heading h1{
+   text-align:  start;
+   margin-left: 200px;
+ }
+      .container {
+         display: flex;
+         justify-content: space-between;
+         align-items: center;
 
-.wrapper{
-   height:100vh;
-   width: 100%;
+         margin-top: 20px;
+         
+      }
+ .date {
+   width: 300px;
    
+   margin-left: 200px;
+   margin-bottom: 60px;
+  
 }
-.wrapper .container{
-   display: flex;
-   justify-content: space-around;
-   width: 90%;
-}
+.page{
+   width: 60%;
+   font-size: 14px;
+   }
 
-.Work-heading h1{
-margin-right: 350px;
-font-size: 35px;
-width: 804px;
-}
-.page h3{
- padding-left: 350px;
-}
-.page h1{
-   margin-right: 80x;
-}
- 
-
-
-
- 
+   .content li{
+      list-style: none ;
+   }
+   
